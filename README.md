@@ -1,0 +1,1 @@
+echo " # mi" >> ok.lmd
