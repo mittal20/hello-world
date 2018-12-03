@@ -1,1 +1,1 @@
-echo " # mi" >> ok.lmd
+hello-world 
